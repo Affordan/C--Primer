@@ -1,0 +1,6 @@
+# quick review
+Q1. 类型int，long, long long 和short之间的区别是什么？
+
+Q2. 无符号类型和带符号类型的区别是什么？
+
+Q3. float和double的区别是什么？
